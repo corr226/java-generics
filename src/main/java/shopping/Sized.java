@@ -1,4 +1,5 @@
 package shopping;
 
-public class Sized {
+public interface Sized {
+  int getSize();
 }

@@ -1,4 +1,5 @@
 package shopping;
 
-public class Colored {
+public interface Colored {
+  String getColor();
 }
